@@ -1,3 +1,5 @@
+kernel-update
+
 CentOS Linux release 8.5.2111
 
 Проверяем ядро
@@ -21,3 +23,4 @@ uname -r
 6.7.9-1.el8.elrepo.x86_64
 
 Новое ядро установлено!!!
+# dzpervoe
