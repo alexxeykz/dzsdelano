@@ -25,3 +25,4 @@ uname -r
 Новое ядро установлено!!!
 # dzpervoe
 # dzalexxeyk
+# dzalexxeyk
