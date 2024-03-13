@@ -10,10 +10,10 @@ CentOS Linux release 8.5.2111
 yum --enablerepo=elrepo-kernel install kernel-ml
 
 Installing:
- kernel-ml                         x86_64           6.7.9-1.el8.elrepo           elrepo-kernel          121 k
+ kernel-ml                         x86_64           6.7.9-1.el8.elrepo           elrepo-kernel
 Installing dependencies:
- kernel-ml-core                    x86_64            6.7.9-1.el8.elrepo          elrepo-kernel          39 M
- kernel-ml-modules                 x86_64            6.7.9-1.el8.elrepo           elrepo-kernel          34 M
+ kernel-ml-core                    x86_64            6.7.9-1.el8.elrepo          elrepo-kernel
+ kernel-ml-modules                 x86_64            6.7.9-1.el8.elrepo           elrepo-kernel
 
 Далее настраиваем загрузчик.
 Создаем файл конфигурации Grub  перезапускаем систему.
