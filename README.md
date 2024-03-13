@@ -23,7 +23,5 @@ uname -r
 6.7.9-1.el8.elrepo.x86_64
 
 Новое ядро установлено!!!
-# dzpervoe
-# dzalexxeyk
-# dzalexxeyk
-# dzpervor
+
+
