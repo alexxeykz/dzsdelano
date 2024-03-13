@@ -1,3 +1,5 @@
+При редактировании данного файла все выводится в столбик, при просмотре почему то все в строку и все сливается. 
+
 Устанавливаем машину с помощью Vagrant
 root@testvm:/home/kcentos# vagrant destroy
     kernel-update: Are you sure you want to destroy the 'kernel-update' VM? [y/N] y
